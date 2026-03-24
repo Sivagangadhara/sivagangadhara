@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00c6ff,100:0072ff&height=200&section=header&text=Siva%20Gangadhara%20Rao&fontSize=48&fontColor=ffffff&fontAlignY=50&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=72&descColor=cce7ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Arigela%20Hemanth%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Engineer%20%7C%20Scalable%20Systems%20%7C%20Spring%20Boot&descAlignY=60&descColor=cce7ff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=🔥+3+Years+of+Production+Backend+Experience;⚡+Building+Scalable+%26+Secure+Systems;☕+Java+%7C+Spring+Boot+%7C+Spring+Security;🐳+Docker+%7C+CI%2FCD+%7C+Microservices;🚀+Handling+10K%2B+Daily+Transactions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=🔥+3%2B+Years+Backend+Experience;⚡+Building+Scalable+%26+Secure+APIs;☕+Java+%7C+Spring+Boot+%7C+Spring+Security;🐳+Docker+%7C+CI%2FCD+%7C+Microservices;🚀+Handling+10K%2B+Daily+Transactions" />
 
 <br/><br/>
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Email-0072ff?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/YOUR-LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0072ff?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -28,31 +28,30 @@
 
 ## 👋 About Me
 
-I’m a **Java Backend Engineer** with **3 years of hands-on production experience**, focused on building **secure, scalable, and high-performance backend systems**.
+I’m a **Java Backend Engineer with 3+ years of production experience** building **scalable, secure, and high-performance backend systems**.
 
-💡 I don’t just write code — I design systems that **handle real-world load, failures, and scale**.
+I specialize in:
+- ⚡ Designing **high-performance REST APIs** using Spring Boot  
+- 🛡️ Building **secure authentication systems** (JWT, RBAC, OTP)  
+- 🗄️ Optimizing **database design for real-world workloads**  
 
-- 🔭 Currently building: **Doctor Appointment Management System (MediBook)**
-- 💼 Backend Developer at **Longbow Technologies**
-- ⚡ Built systems handling **10,000+ daily transactions**
-- 🛡️ Strong focus on **Security, RBAC, and API Design**
-- 🌱 Exploring **Microservices & Cloud-Native Architecture**
+💡 I don’t just write code — I build systems that **scale, recover, and perform under real-world pressure**.
 
 ---
 
-## 🧠 What I Bring
+## 🏗️ System Design Experience
 
-✔️ Production-grade backend development  
-✔️ Clean architecture (Controller → Service → Repository)  
-✔️ Secure authentication (JWT, OTP, RBAC)  
-✔️ High-performance database design  
-✔️ API design for real-world systems  
+- Designed systems handling **10,000+ daily transactions**
+- Built **role-based access control (RBAC)** systems
+- Implemented **transaction-safe workflows** (booking systems)
+- Experience with **production debugging & failure handling**
+- Designed clean architecture (**Controller → Service → Repository**)
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🚀 Core Backend
+### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-00C896?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-00C896?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -62,7 +61,7 @@ I’m a **Java Backend Engineer** with **3 years of hands-on production experien
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ⚙️ Tools & DevOps
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,20 +74,20 @@ I’m a **Java Backend Engineer** with **3 years of hands-on production experien
 ### 🏢 Longbow Technologies — Backend Developer  
 📅 Jan 2024 – Present
 
-- Designed **scalable REST APIs using Spring Boot**
+- Designed and developed **scalable REST APIs using Spring Boot**
 - Implemented **RBAC with Spring Security**
 - Built **database-driven systems using JPA/Hibernate**
-- Collaborated with frontend & QA teams
+- Collaborated with frontend & QA teams for production releases
 
 ---
 
 ### 🏢 Ivis International — Production Executive  
 📅 Mar 2023 – Dec 2023
 
-- Managed **enterprise production systems (24x7 support)**
-- Handled **critical incidents & outages**
-- Worked with **Dynatrace, Apache, Tomcat**
-- Executed **SQL scripts & production fixes**
+- Supported **24x7 enterprise production systems**
+- Handled **critical incidents & outage resolution**
+- Worked with **Apache, Tomcat, Dynatrace**
+- Executed **SQL scripts and hotfix deployments**
 
 ---
 
@@ -96,16 +95,27 @@ I’m a **Java Backend Engineer** with **3 years of hands-on production experien
 
 ### 🏥 MediBook — Doctor Appointment System
 
-A **production-grade backend system** with secure, role-based workflows.
+A **production-grade backend system** simulating real-world healthcare workflows.
 
-**Key Highlights:**
-- OTP-based authentication
-- JWT session handling
-- RBAC (Admin / Doctor / Patient)
-- Transaction-safe booking system
-- Optimized MySQL schema
+🔧 Tech Stack: Java, Spring Boot, Spring Security, MySQL  
 
-👉 Built like a **real-world deployable system**, not just a demo.
+### 💡 Features:
+- OTP-based authentication & JWT session management  
+- Role-based access (**Admin / Doctor / Patient**)  
+- Appointment booking with **concurrency handling**  
+- Transaction-safe scheduling system  
+
+### 📈 Impact:
+- Designed to handle **real-world traffic scenarios**
+- Optimized database queries for performance
+
+---
+
+## 🌱 Currently Exploring
+
+- Microservices Architecture  
+- Spring Cloud & API Gateway  
+- AWS (EC2, S3, RDS)  
 
 ---
 
@@ -123,9 +133,9 @@ A **production-grade backend system** with secure, role-based workflows.
 
 ## 🏆 Achievements
 
-- 🚀 Delivered **high-traffic backend systems**
-- ⚡ Built **secure authentication architectures**
-- 🛠️ Experience with **production deployments & monitoring**
+- 🚀 Built backend systems handling **10K+ daily transactions**
+- 🛡️ Developed **secure authentication architectures**
+- ⚡ Hands-on experience with **production deployments & monitoring**
 
 ---
 
@@ -137,15 +147,15 @@ CGPA: 7.11
 
 ---
 
-## 📣 For Recruiters
+## 📣 Open to Opportunities
 
-I’m actively open to:
+I’m currently open to:
 
 ✔️ Backend Developer Roles  
 ✔️ Java / Spring Boot Positions  
 ✔️ Microservices-based systems  
 
-💬 If you’re hiring someone who can **build real production systems**, let’s connect.
+💬 Let’s connect if you're hiring or building scalable systems.
 
 ---
 
@@ -157,7 +167,7 @@ I’m actively open to:
 <img src="https://img.shields.io/badge/Email_Me-0072ff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/YOUR-LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0072ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -171,6 +181,6 @@ I’m actively open to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer&text=Let’s%20Build%20Something%20Great%20🚀&fontSize=20&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer&text=Let’s%20Build%20Scalable%20Systems%20🚀&fontSize=20&fontColor=ffffff"/>
 
 </div>

@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/mutyalasiva">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hey+there!+I'm+Siva+%F0%9F%91%8B;Java+Backend+Engineer+%7C+Microservices+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hey+there!+I'm+Siva+%F0%9F%91%8B;Java+Backend+Engineer+%7C+Microservices" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -273,7 +273,7 @@ public class SivaGangadharaRao {
 
 ### 📬 Let's Connect & Build Something Amazing!
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/linkedin.com/in/siva-gangadhara-rao-mutyala">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;

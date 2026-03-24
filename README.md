@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2026,100:2c5364&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f225,100:2c5364&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+Expert;Building+Scalable+Systems;10K%2B+Daily+Transactions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservice;Building+Scalable+Systems;10K%2B+Daily+Transactions" />
 
 <br/>
 

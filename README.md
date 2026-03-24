@@ -1,90 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:2c5364&height=220&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20|%20Scalable%20Systems%20|%20Spring%20Boot&descAlignY=60&descColor=e0e7ff"/>
+<!-- Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+Expert;Building+Scalable+Systems;10K%2B+Daily+Transactions" />
+
+<br/>
+
+<!-- Social Links -->
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/mutyalasiva">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:mutyalasivagangadhara@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Badges -->
+<img src="https://img.shields.io/badge/Focus-Backend_Engineering-7B5EA7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lives_In-India-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-3+_Years-00D9FF?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open_To-Opportunities-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loves-Clean_Code-9b59b6?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- Coding GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
 </div>
 
 ---
 
-# 🚀 Java Backend Engineer | Spring Boot | Microservices
+## 👨‍💻 About Me
 
-💼 Backend Engineer with **3+ years of production experience** building scalable, secure, and high-performance systems.
+```java
+@BackendEngineer
+public class Siva {
 
-- ⚡ Built APIs handling **10K+ daily transactions**
-- 🛡️ Expertise in **JWT, RBAC, OTP Authentication**
-- 🗄️ Strong in **Database Design & Optimization**
-- 🚀 Focused on **scalable & production-ready systems**
+    String name = "Siva Gangadhara Rao Mutyala";
+    String role = "Java Backend Engineer";
+    int experience = 3;
 
----
+    String[] skills = {
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "System Design"
+    };
 
-## 🔗 Connect With Me
+    String[] expertise = {
+        "JWT Authentication",
+        "RBAC Security",
+        "Database Optimization",
+        "Production Debugging"
+    };
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0072ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/mutyalasiva"><img src="https://img.shields.io/badge/GitHub-0072ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:mutyalasivagangadhara@gmail.com"><img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+    String achievement = "Handled 10K+ daily transactions";
+
+    String mindset() {
+        return "Build scalable, secure, production-ready systems 🚀";
+    }
+}
+```
 
 ---
 
 ## 💡 Core Strengths
 
-- ✅ Scalable Backend Architecture  
-- ✅ Secure Authentication (JWT, RBAC, OTP)  
-- ✅ REST API Development  
-- ✅ Performance Optimization  
-- ✅ Production Issue Debugging  
-
----
-
-## 🏗️ System Design Experience
-
-- Designed systems handling **10K+ daily requests**
-- Implemented **Role-Based Access Control (RBAC)**
-- Built **transaction-safe booking systems**
-- Follow **Clean Architecture (Controller → Service → Repository)**
+- 🚀 Scalable Backend Systems  
+- 🔐 Secure Authentication (JWT, RBAC, OTP)  
+- ⚡ High-performance REST APIs  
+- 🧠 Clean Architecture (Controller → Service → Repository)  
+- 🛠️ Production Issue Debugging  
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 🚀 Backend
-- Java  
-- Spring Boot  
-- Spring Security  
-- Hibernate  
+![Java](https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00C896?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-00C896?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 🗄️ Database
-- MySQL  
-- Oracle  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ⚙️ DevOps & Tools
-- Docker  
-- Jenkins  
-- Git  
-- Postman  
-
----
-
-## 💼 Work Experience
-
-### 🏢 Longbow Technologies — Backend Developer  
-📅 Jan 2024 – Present  
-
-- Developed **15+ REST APIs** with high performance  
-- Implemented **Spring Security with RBAC**  
-- Reduced API response time by **30%**  
-- Collaborated with frontend & QA teams  
-
----
-
-### 🏢 Ivis International — Production Executive  
-📅 Mar 2023 – Dec 2023  
-
-- Supported **24x7 production systems**  
-- Resolved **critical incidents & outages**  
-- Worked with **Apache, Tomcat, Dynatrace**  
-- Performed SQL fixes & deployments  
+### ⚙️ Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -92,91 +108,48 @@
 
 ### 🏥 MediBook — Doctor Appointment System
 
-A scalable backend system for managing doctor appointments.
-
-### 🔥 Key Features
-
-- OTP Authentication & JWT Security  
-- Role-Based Access (Admin / Doctor / Patient)  
-- Appointment booking with concurrency control  
+- OTP Authentication + JWT  
+- RBAC (Admin / Doctor / Patient)  
+- Concurrency-safe booking  
 - Transaction-safe scheduling  
 
-### 🧠 Engineering Highlights
+### 🔥 Engineering Highlights
 
-- Implemented **stateless authentication using JWT**
-- Prevented double booking using **transaction locking**
-- Designed optimized DB schema for performance
-- Built layered architecture (Controller → Service → Repository)
-
----
-
-## 🔗 Sample API
-
-```json
-POST /api/appointments/book
-
-Request:
-{
-  "doctorId": 1,
-  "patientId": 5,
-  "timeSlot": "10:30 AM"
-}
-
-Response:
-{
-  "status": "CONFIRMED",
-  "appointmentId": 1023
-}
-```
-
----
-
-## 🌱 Currently Exploring
-
-- Microservices Architecture  
-- Spring Cloud  
-- AWS (EC2, S3, RDS)  
-- Redis Caching  
+- Prevented double booking using DB locking  
+- Designed optimized schema  
+- Built scalable layered architecture  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mutyalasiva&show_icons=true&theme=blue-green"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mutyalasiva&theme=blue-green"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mutyalasiva&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mutyalasiva&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-- 🚀 Built systems handling **10K+ daily transactions**
-- 🛡️ Developed **secure backend systems**
-- ⚡ Experience in **production deployments**
-
----
-
-## 🎓 Education
-
-🎓 Master of Computer Applications (MCA)  
-S.V.K.P & Dr. K.S. Raju College  
-CGPA: 7.11  
+- 🚀 10K+ daily transaction systems  
+- ⚡ 30% performance improvement  
+- 🛡️ Secure backend architecture  
 
 ---
 
 ## 📣 Open to Opportunities
 
-✔️ Backend Developer Roles  
-✔️ Java / Spring Boot  
-✔️ Microservices  
+💼 Backend Developer | Java | Spring Boot | Microservices  
 
-💬 Let’s connect if you're hiring!
+📩 Let’s connect!
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer&text=Let’s%20Build%20Scalable%20Systems%20🚀&fontSize=20&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
 </div>

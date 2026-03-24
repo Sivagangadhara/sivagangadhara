@@ -273,7 +273,7 @@ public class SivaGangadharaRao {
 
 ### 📬 Let's Connect & Build Something Amazing!
 
-<a href="https://linkedin.com/in/linkedin.com/in/siva-gangadhara-rao-mutyala">
+<a href="https://linkedin.com/in/linkedin.com/in/https://www.linkedin.com/in/siva-gangadhara-rao-mutyala/">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;

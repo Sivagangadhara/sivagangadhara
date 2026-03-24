@@ -1,26 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Siva%20Gangadhara%20Mutyala&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Engineer%20%7C%20Scalable%20Systems%20%7C%20Spring%20Boot&descAlignY=60&descColor=cce7ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arigela%20Hemanth%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Scalable%20Systems%20%7C%20Spring%20Boot&descAlignY=60&descColor=e0e7ff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=🔥+3%2B+Years+Backend+Experience;⚡+Building+Scalable+%26+Secure+APIs;☕+Java+%7C+Spring+Boot+%7C+Spring+Security;🐳+Docker+%7C+CI%2FCD+%7C+Microservices;🚀+Handling+10K%2B+Daily+Transactions" />
+<h2>
+  S P R I N G&nbsp;&nbsp;B O O T &nbsp;|&nbsp;
+  M I C R O S E R V I C E S &nbsp;|&nbsp;
+  R E S T &nbsp; A P I S
+</h2>
 
-<br/><br/>
+<br/>
 
-<a href="mailto:mutyalasivagangadhara@gmail.com">
-<img src="https://img.shields.io/badge/Email-0072ff?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0072ff?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/mutyalasiva">
-<img src="https://img.shields.io/badge/GitHub-0072ff?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_India-0072ff?style=flat-square"/>
+<a href="mailto:mutyalasivagangadhara@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-2d2d2d?style=flat-square"/>
+<img src="https://img.shields.io/badge/LIVES%20IN-INDIA-ff4b5c?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-00c6ff?style=flat-square"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-2ecc71?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-9b59b6?style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=🔥+3%2B+Years+Backend+Experience;⚡+Building+Scalable+%26+Secure+APIs;☕+Java+%7C+Spring+Boot+%7C+Spring+Security;🐳+Docker+%7C+CI%2FCD+%7C+Microservices;🚀+Handling+10K%2B+Daily+Transactions" />
 
 </div>
 
@@ -28,24 +45,24 @@
 
 ## 👋 About Me
 
-I’m a **Java Backend Engineer with 3+ years of production experience** building **scalable, secure, and high-performance backend systems**.
+I’m a **Java Backend Engineer with 3+ years of production experience** building scalable, secure, and high-performance backend systems.
 
-I specialize in:
-- ⚡ Designing **high-performance REST APIs** using Spring Boot  
-- 🛡️ Building **secure authentication systems** (JWT, RBAC, OTP)  
-- 🗄️ Optimizing **database design for real-world workloads**  
+- ⚡ Build **high-performance REST APIs**
+- 🛡️ Implement **JWT, RBAC, OTP-based security**
+- 🗄️ Design **optimized database schemas**
+- 🚀 Systems handling **10K+ daily transactions**
 
-💡 I don’t just write code — I build systems that **scale, recover, and perform under real-world pressure**.
+💡 I build systems that **scale, recover, and perform under real-world load**.
 
 ---
 
 ## 🏗️ System Design Experience
 
-- Designed systems handling **10,000+ daily transactions**
-- Built **role-based access control (RBAC)** systems
-- Implemented **transaction-safe workflows** (booking systems)
+- Designed systems handling **10K+ daily transactions**
+- Built **Role-Based Access Control (RBAC)** systems
+- Implemented **transaction-safe workflows (booking systems)**
 - Experience with **production debugging & failure handling**
-- Designed clean architecture (**Controller → Service → Repository**)
+- Follow **clean architecture (Controller → Service → Repository)**
 
 ---
 
@@ -74,20 +91,20 @@ I specialize in:
 ### 🏢 Longbow Technologies — Backend Developer  
 📅 Jan 2024 – Present
 
-- Designed and developed **scalable REST APIs using Spring Boot**
-- Implemented **RBAC with Spring Security**
-- Built **database-driven systems using JPA/Hibernate**
-- Collaborated with frontend & QA teams for production releases
+- Developed **scalable REST APIs using Spring Boot**
+- Implemented **Spring Security with RBAC**
+- Built **JPA/Hibernate-based systems**
+- Collaborated with frontend & QA teams
 
 ---
 
 ### 🏢 Ivis International — Production Executive  
 📅 Mar 2023 – Dec 2023
 
-- Supported **24x7 enterprise production systems**
-- Handled **critical incidents & outage resolution**
+- Supported **24x7 production systems**
+- Resolved **critical incidents & outages**
 - Worked with **Apache, Tomcat, Dynatrace**
-- Executed **SQL scripts and hotfix deployments**
+- Executed **SQL fixes & deployments**
 
 ---
 
@@ -95,27 +112,23 @@ I specialize in:
 
 ### 🏥 MediBook — Doctor Appointment System
 
-A **production-grade backend system** simulating real-world healthcare workflows.
+A **real-world scalable backend system**.
 
-🔧 Tech Stack: Java, Spring Boot, Spring Security, MySQL  
+**Features:**
+- OTP Authentication & JWT
+- RBAC (Admin / Doctor / Patient)
+- Appointment booking with concurrency handling
+- Transaction-safe scheduling
 
-### 💡 Features:
-- OTP-based authentication & JWT session management  
-- Role-based access (**Admin / Doctor / Patient**)  
-- Appointment booking with **concurrency handling**  
-- Transaction-safe scheduling system  
-
-### 📈 Impact:
-- Designed to handle **real-world traffic scenarios**
-- Optimized database queries for performance
+**Tech Stack:** Java, Spring Boot, MySQL
 
 ---
 
 ## 🌱 Currently Exploring
 
 - Microservices Architecture  
-- Spring Cloud & API Gateway  
-- AWS (EC2, S3, RDS)  
+- Spring Cloud  
+- AWS (EC2, S3, RDS)
 
 ---
 
@@ -133,9 +146,9 @@ A **production-grade backend system** simulating real-world healthcare workflows
 
 ## 🏆 Achievements
 
-- 🚀 Built backend systems handling **10K+ daily transactions**
-- 🛡️ Developed **secure authentication architectures**
-- ⚡ Hands-on experience with **production deployments & monitoring**
+- 🚀 Built systems handling **10K+ daily transactions**
+- 🛡️ Developed **secure backend architectures**
+- ⚡ Hands-on experience with **production deployments**
 
 ---
 
@@ -149,13 +162,11 @@ CGPA: 7.11
 
 ## 📣 Open to Opportunities
 
-I’m currently open to:
-
 ✔️ Backend Developer Roles  
-✔️ Java / Spring Boot Positions  
-✔️ Microservices-based systems  
+✔️ Java / Spring Boot  
+✔️ Microservices Systems  
 
-💬 Let’s connect if you're hiring or building scalable systems.
+💬 Let’s connect if you're hiring!
 
 ---
 
@@ -181,6 +192,6 @@ I’m currently open to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer&text=Let’s%20Build%20Scalable%20Systems%20🚀&fontSize=20&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer&text=Let’s%20Build%20Scalable%20Systems%20🚀&fontSize=20&fontColor=ffffff"/>
 
 </div>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20Expert%20%7C%20System%20Builder&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:B8860B&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20Expert%20%7C%20System%20Builder&descAlignY=55&descAlign=50&descColor=E8E8E8"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/Sivagangadhara">
@@ -288,6 +288,6 @@ public class SivaGangadharaRao {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Footer GIF"/>
 
 <!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:1a1a2e,100:0D0D0D&height=120&section=footer"/>
 
 </div>

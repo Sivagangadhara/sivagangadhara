@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:B8860B&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20Expert%20%7C%20System%20Builder&descAlignY=55&descAlign=50&descColor=E8E8E8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20Expert%20%7C%20System%20Builder&descAlignY=55&descAlign=50"/>
 
 <!-- Typing SVG -->
-<a href="https://github.com/Sivagangadhara">
+<a href="https://github.com/mutyalasiva">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hey+there!+I'm+Siva+%F0%9F%91%8B;Java+Backend+Engineer+%7C+Microservices" alt="Typing SVG" />
 </a>
 
@@ -46,8 +46,6 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
 ```java
-public @interface BackendEngineer {}
-
 @BackendEngineer
 public class SivaGangadharaRao {
 
@@ -214,13 +212,13 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&icon_color=00D9FF&cache_seconds=1800&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Sivagangadhara&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B5EA7&ring=00D9FF&fire=FF6B6B" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mutyalasiva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&icon_color=00D9FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutyalasiva&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B5EA7&ring=00D9FF&fire=FF6B6B" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagangadhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&cache_seconds=1800&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutyalasiva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mutyalasiva&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
 
 </div>
 
@@ -229,7 +227,7 @@ public class SivaGangadharaRao {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mutyalasiva&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -288,6 +286,6 @@ public class SivaGangadharaRao {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Footer GIF"/>
 
 <!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:1a1a2e,100:0D0D0D&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>

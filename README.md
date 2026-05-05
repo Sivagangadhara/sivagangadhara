@@ -214,12 +214,12 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&icon_color=00D9FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&icon_color=00D9FF&cache_seconds=1800&rank_icon=github" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=Sivagangadhara&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B5EA7&ring=00D9FF&fire=FF6B6B" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagangadhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagangadhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&cache_seconds=1800&langs_count=8" alt="Top Languages"/>
 <img width="49%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
 
 </div>

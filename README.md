@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Wave Header - Warm Orange to Pink Gradient with Blinking Name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A261,30:E07BAB,65:C75B8A,100:A63D6B&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=FFFFFF&animation=blinking&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20Expert%20%7C%20System%20Builder&descAlignY=55&descAlign=50&descColor=FFE8F0"/>
+<!-- Wave Header - Warm Orange to Pink Gradient -->
+<!-- Using twinkling animation which is slower and smoother than blinking -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A261,30:E07BAB,65:C75B8A,100:A63D6B&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20Expert%20%7C%20System%20Builder&descAlignY=55&descAlign=50&descColor=FFE8F0"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/Sivagangadhara">
@@ -230,8 +231,8 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<!-- Warm Pink/Orange themed trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=radical&no-frame=true&no-bg=true&column=7&title_color=E07BAB&text_color=F4A261&icon_color=C75B8A" alt="GitHub Trophies"/>
+<!-- warm orange-pink trophy theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=gruvbox&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 
 </div>
 

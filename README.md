@@ -26,7 +26,7 @@
 <!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Backend_Engineering-C75B8A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Lives_In-India_🇮🇳-F4A261?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Lives_In-India_%F0%9F%87%AE%F0%9F%87%B3-F4A261?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/badge/Experience-3%2B_Years-E07BAB?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Experience"/>
 </p>
 <p>
@@ -229,7 +229,10 @@ public class SivaGangadharaRao {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+
+<!-- Warm Pink/Orange themed trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=radical&no-frame=true&no-bg=true&column=7&title_color=E07BAB&text_color=F4A261&icon_color=C75B8A" alt="GitHub Trophies"/>
+
 </div>
 
 ---

@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A2E,40:16213E,70:0F3460,100:533483&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20Expert%20%7C%20System%20Builder&descAlignY=55&descAlign=50&descColor=E0E0FF"/>
+<!-- Wave Header - Warm Orange to Pink Gradient with Blinking Name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A261,30:E07BAB,65:C75B8A,100:A63D6B&height=200&section=header&text=Siva%20Gangadhara%20Rao%20Mutyala&fontSize=38&fontColor=FFFFFF&animation=blinking&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20Expert%20%7C%20System%20Builder&descAlignY=55&descAlign=50&descColor=FFE8F0"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/Sivagangadhara">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hey+there!+I'm+Siva+%F0%9F%91%8B;Java+Backend+Engineer+%7C+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E07BAB&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hey+there!+I'm+Siva+%F0%9F%91%8B;Java+Backend+Engineer+%7C+Microservices" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,13 +25,13 @@
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-7B5EA7?style=for-the-badge&logo=openjdk&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Lives_In-India_🇮🇳-FF6B6B?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/Experience-3+_Years-00D9FF?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-C75B8A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Lives_In-India_🇮🇳-F4A261?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B_Years-E07BAB?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Experience"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Open_To-Opportunities-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Loves-Clean_Code_💜-7B5EA7?style=for-the-badge" alt="Clean Code"/>
+  <img src="https://img.shields.io/badge/Loves-Clean_Code_%F0%9F%92%9C-C75B8A?style=for-the-badge" alt="Clean Code"/>
 </p>
 
 <br/>
@@ -103,7 +103,7 @@ public class SivaGangadharaRao {
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Microservices-C75B8A?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Microservices"/>
 </p>
 
 ### 🗄️ Databases
@@ -165,7 +165,7 @@ public class SivaGangadharaRao {
     <td width="50%">
       <h3 align="center">🏥 MediBook — Doctor Appointment System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Private_Repository-🔒_Confidential-555555?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Private_Repository-%F0%9F%94%92_Confidential-555555?style=for-the-badge&logo=github&logoColor=white"/>
       </p>
       <p align="center">
         Full-featured healthcare appointment platform with <strong>OTP + JWT Authentication</strong>, Role-Based Access Control for Admin, Doctor & Patient, and concurrency-safe, transaction-safe slot booking.
@@ -186,15 +186,15 @@ public class SivaGangadharaRao {
     <td width="50%">
       <h3 align="center">⚡ High-Volume Transaction System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Private_Repository-🔒_Confidential-555555?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Private_Repository-%F0%9F%94%92_Confidential-555555?style=for-the-badge&logo=github&logoColor=white"/>
       </p>
       <p align="center">
         Backend system engineered to handle <strong>10K+ daily transactions</strong> with 30% performance improvement over legacy systems. Built with fault tolerance and production-grade reliability.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microservices-C75B8A?style=flat-square&logo=apachekafka&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=api&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_APIs-F4A261?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
       </p>
       <ul>
@@ -214,13 +214,13 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&icon_color=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Sivagangadhara&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B5EA7&ring=00D9FF&fire=FF6B6B" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&icon_color=F4A261&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Sivagangadhara&theme=rose_pine&hide_border=true&background=0D1117&stroke=C75B8A&ring=F4A261&fire=E07BAB" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagangadhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&langs_count=8&count_private=true" alt="Top Languages"/>
-<img width="49%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagangadhara&layout=compact&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&langs_count=8&count_private=true" alt="Top Languages"/>
+<img width="49%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=redical&hide_border=true&bg_color=0D1117&color=E07BAB&line=C75B8A&point=F4A261" alt="Activity Graph"/>
 
 </div>
 
@@ -229,7 +229,7 @@ public class SivaGangadharaRao {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -241,15 +241,15 @@ public class SivaGangadharaRao {
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🚀_10K%2B-Daily_Transactions-7B5EA7?style=for-the-badge" alt="Transactions"/>
+      <img src="https://img.shields.io/badge/%F0%9F%9A%80_10K%2B-Daily_Transactions-C75B8A?style=for-the-badge" alt="Transactions"/>
       <br/><sub>Production system at scale</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/⚡_30%25-Performance_Boost-00D9FF?style=for-the-badge" alt="Performance"/>
+      <img src="https://img.shields.io/badge/%E2%9A%A1_30%25-Performance_Boost-F4A261?style=for-the-badge" alt="Performance"/>
       <br/><sub>Optimized legacy systems</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🛡️_Zero-Security_Breaches-brightgreen?style=for-the-badge" alt="Security"/>
+      <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Zero-Security_Breaches-brightgreen?style=for-the-badge" alt="Security"/>
       <br/><sub>Secure backend architecture</sub>
     </td>
   </tr>
@@ -263,7 +263,7 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
@@ -287,7 +287,7 @@ public class SivaGangadharaRao {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Footer GIF"/>
 
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,40:0F3460,70:16213E,100:0A0A2E&height=120&section=footer"/>
+<!-- Wave Footer - Reversed Pink to Orange Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A63D6B,35:C75B8A,65:E07BAB,100:F4A261&height=120&section=footer"/>
 
 </div>

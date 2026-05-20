@@ -230,8 +230,8 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<!-- Issues trophy excluded until issues activity is built up -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=juicyfresh&no-frame=true&no-bg=true&column=7&exclude=Issues" alt="GitHub Trophies"/>
+<!-- Explicitly listing only valid trophies - Issues excluded permanently -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=juicyfresh&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Experience,Stars,Followers,PullRequest,Reviews" alt="GitHub Trophies"/>
 
 </div>
 

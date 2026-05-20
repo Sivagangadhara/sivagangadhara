@@ -214,13 +214,18 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&icon_color=F4A261&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Sivagangadhara&theme=dark&hide_border=true&background=0D1117&stroke=C75B8A&ring=F4A261&fire=E07BAB&currStreakLabel=E07BAB&sideLabels=E07BAB&dates=888888" alt="GitHub Streak"/>
+### 📊 GitHub At a Glance
+
+<p>
+  <img src="https://img.shields.io/badge/Total%20Contributions-199-E07BAB?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Longest%20Streak-5%20Days-F4A261?style=for-the-badge&logo=github&logoColor=white" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Private-C75B8A?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Language"/>
+</p>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sivagangadhara&layout=compact&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&langs_count=8&count_private=true" alt="Top Languages"/>
-<img width="49%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=redical&hide_border=true&bg_color=0D1117&color=E07BAB&line=C75B8A&point=F4A261&area=true" alt="Activity Graph"/>
+<img width="80%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=redical&hide_border=true&bg_color=0D1117&color=E07BAB&line=C75B8A&point=F4A261&area=true" alt="Activity Graph"/>
 
 </div>
 

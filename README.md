@@ -230,8 +230,8 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<!-- Explicitly listing only valid trophies - Issues excluded permanently -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=juicyfresh&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Experience,Stars,Followers,PullRequest,Reviews" alt="GitHub Trophies"/>
+<!-- juicyfresh theme = bright multi-colored trophies: orange, green, red, blue, yellow, pink - matches badge colors exactly -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sivagangadhara&theme=juicyfresh&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 
 </div>
 

@@ -214,18 +214,22 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-### 📊 GitHub At a Glance
+### 📊 GitHub Stats
 
-<p>
-  <img src="https://img.shields.io/badge/Total%20Contributions-199-E07BAB?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
-  <img src="https://img.shields.io/badge/Longest%20Streak-5%20Days-F4A261?style=for-the-badge&logo=github&logoColor=white" alt="Streak"/>
-  <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Private-C75B8A?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Language"/>
-</p>
+<a href="https://github.com/Sivagangadhara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&icon_color=F4A261&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagangadhara&layout=donut&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&text_color=FFFFFF&langs_count=8&count_private=true" alt="Top Languages"/>
+</a>
 
 <br/>
 
-<img width="80%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=redical&hide_border=true&bg_color=0D1117&color=E07BAB&line=C75B8A&point=F4A261&area=true" alt="Activity Graph"/>
+<a href="https://github.com/Sivagangadhara">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Sivagangadhara&theme=rose_pine&hide_border=true&background=0D1117&stroke=C75B8A&ring=F4A261&fire=E07BAB&currStreakLabel=E07BAB&sideLabels=C75B8A&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<img width="90%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=redical&hide_border=true&bg_color=0D1117&color=E07BAB&line=C75B8A&point=F4A261&area=true&area_color=C75B8A" alt="Activity Graph"/>
 
 </div>
 

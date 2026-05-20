@@ -217,8 +217,8 @@ public class SivaGangadharaRao {
 ### 📊 GitHub Stats
 
 <a href="https://github.com/Sivagangadhara">
-  <img height="180em" src="https://sivagangadhara-ln1rmu3nb-mutyalasivagangadhara-4154s-projects.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&icon_color=F4A261&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://sivagangadhara-ln1rmu3nb-mutyalasivagangadhara-4154s-projects.vercel.app/api/top-langs/?username=Sivagangadhara&layout=donut&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&text_color=FFFFFF&langs_count=8&count_private=true" alt="Top Languages"/>
+  <img height="180em" src="https://sivagangadhara-kjhpss498-mutyalasivagangadhara-4154s-projects.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&icon_color=F4A261&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://sivagangadhara-kjhpss498-mutyalasivagangadhara-4154s-projects.vercel.app/api/top-langs/?username=Sivagangadhara&layout=donut&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&text_color=FFFFFF&langs_count=8&count_private=true" alt="Top Languages"/>
 </a>
 
 <br/>

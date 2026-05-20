@@ -214,12 +214,12 @@ public class SivaGangadharaRao {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&icon_color=F4A261&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivagangadhara&theme=rose_pine&hide_border=true&background=0D1117&stroke=C75B8A&ring=F4A261&fire=E07BAB&currStreakLabel=E07BAB" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sivagangadhara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&icon_color=F4A261&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Sivagangadhara&theme=dark&hide_border=true&background=0D1117&stroke=C75B8A&ring=F4A261&fire=E07BAB&currStreakLabel=E07BAB&sideLabels=E07BAB&dates=888888" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagangadhara&layout=compact&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&langs_count=8&count_private=true&cache_seconds=1800" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sivagangadhara&layout=compact&theme=rose_pine&hide_border=true&bg_color=0D1117&title_color=E07BAB&langs_count=8&count_private=true" alt="Top Languages"/>
 <img width="49%" src="https://github-activity-graph.vercel.app/graph?username=Sivagangadhara&theme=redical&hide_border=true&bg_color=0D1117&color=E07BAB&line=C75B8A&point=F4A261&area=true" alt="Activity Graph"/>
 
 </div>
